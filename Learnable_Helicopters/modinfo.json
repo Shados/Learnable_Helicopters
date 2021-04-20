@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "learnable_helicopters",
+    "name": "<color_light_green>Learnable Helicopters</color>",
+    "authors": [ "Zlorthishen" ],
+    "description": "A supplement mod that allows the Helicopter Piloting and Airframe and Powerplant Mechanic proficiencies to be able to be learned.",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]
